@@ -1,37 +1,37 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Header y Footer gris */
+
   header, footer {
     background-color: #e0e0e0;
     text-align: center;
     padding: 25px;
   }
   
-  /* Nombre */
+
   header h1 {
     color: #333;
     font-size: 2.5em;
   }
   
-  /* Pequeña descripción */
+
   header p {
     color: #666;
     font-size: 1.2em;
   }
   
-  /* Navegación */
+
   nav {
     background-color: #f8f8f8;
     padding: 10px;
     text-align: center;
   }
   
-  /* selector elemento elemento */
+
   nav a {
     margin: 0 15px;
     text-decoration: none;
@@ -39,30 +39,30 @@
     font-weight: bold;
   }
   
-  /* Main general */
+
   main {
     padding: 30px;
     text-align: center;
   }
   
-  /* Foto de perfil */
+
   img.perfil {
     width: 150px;
     border-radius: 50%;
     margin-bottom: 20px;
   }
   
-  /* Secciones */
+
   section {
     margin-bottom: 30px;
   }
   
-  /* selector elemento, elemento */
+
   h1, h2 {
     margin-bottom: 20px;
   }
   
-  /* Tabla */
+
   table {
     width: 80%;
     margin: 20px auto;
